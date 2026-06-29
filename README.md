@@ -12,6 +12,12 @@ It is intentionally documentation-first and minimal. The goal is to establish a 
 - `CHANGELOG.md`: Notable changes to the repository over time.
 - `LICENSE`: MIT license for repository contents.
 
-## Status
+## Design Goals
 
-This project is in its initial scaffold stage.
+This repository is intentionally concise.
+
+A technician should be able to read the entire repository in under fifteen minutes.
+
+If a new principle does not change behavior, it probably does not belong here.
+
+Technical instruction belongs in the Engineering Handbook.
